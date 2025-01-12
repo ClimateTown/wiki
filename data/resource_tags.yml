@@ -76,3 +76,5 @@
 - name: Greenwashing
   color: "green"
 - name: Pollution
+- name: LGBTQ+
+  color: "lavender"
