@@ -665,3 +665,63 @@
     - Research
   title: Project Regeneration Nexus
   url: https://regeneration.org/nexus
+- description: The US Protest Law Tracker follows state and federal legislation introduced since January 2017 that restricts the right to peaceful assembly.
+  tags:
+    - Tools
+    - Activism
+    - Politics
+    - Location/US
+  title: US Protest Law Tracker
+  url: https://www.icnl.org/usprotestlawtracker/
+- description: An educational poster which provides a thorough and inclusive overview of terms when discussing gender and gendered bodies.
+  tags:
+    - Education
+    - LGBTQ+
+  title: The Holistic Trans Body Poster
+  url: https://wannalearnmore.com/poster/
+- description: Unmasking AI, written by AJL founder Dr. Joy Buolamwini, explores social and ethical issues in AI systems. Use AJL's Unmasking AI Action Guide to explore practical ways to join the fight for algorithmic justice.
+  tags:
+    - Education
+    - Politics
+    - Climate Tech
+    - Activism
+  title: Unmasking AI Action Guide
+  url: https://newsletter.ajl.org/learn
+- description: This training by Amnesty International enables you to explain how human rights relate to your own life and equips you to take action for human rights. 90 minutes, self-paced.
+  tags:
+    - Education
+    - Activism
+    - Politics
+  title: "Training: An Introduction to Human Rights"
+  url: https://academy.amnesty.org/learn/courses/115/an-introduction-to-human-rights
+- description: This training offers an in-depth look at the relationship between human rights and climate change. 5 hours, self paced.
+  tags:
+    - Education
+    - Activism
+    - Politics
+  title: "Training: Climate Change and Human Rights"
+  url: https://academy.amnesty.org/learn/courses/252/climate-change-and-human-rights
+- description: This is a reference guide from a privacy perspective for how to take inventory of your online social media accounts, how to evaluate their relevance in your life, and how you can take action on them.
+  tags:
+    - Education
+    - Tools
+    - Activism
+  title: "Guide: Social Media Inventory and Intervention"
+  url: https://lefttoourowndevices.blog/guide-social-media-inventory-and-intervention/
+- description: This is a simple guide providing practical and principled ways to support Political Prisoners and Prisoners of War. The guide is created by the Anarchist Black Cross Federation.
+  tags:
+    - Education
+    - Activism
+    - Politics
+  title: "Guide: Supporting Political Prisoners"
+  url: https://www.abcf.net/support-guide/
+- description: The Trellis jobs board (formerly GreenBiz) promotes roles in sustainability, renewable energy, net zero, the circular economy, sustainable finance, and more.
+  tags:
+    - Climate Careers
+  title: Trellis Jobs Board
+  url: https://jobs.trellis.net/
+- description: A database of fossil fuel divestment commitments made by institutions worldwide.
+  tags:
+    - Climate Accountability
+  title: Global Fossil Fuel Divestment Database
+  url: https://divestmentdatabase.org/
