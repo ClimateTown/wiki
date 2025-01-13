@@ -27,7 +27,7 @@ jobs:
       - uses: actions/configure-pages@v3
         id: pages
         if: (github.ref == 'refs/heads/main') && (github.repository == 'ClimateTown/knowledge-hub')
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
           node-version: ">=18"
           cache: npm
