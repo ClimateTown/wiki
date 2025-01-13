@@ -22,7 +22,7 @@ jobs:
 
       - name: Link Checker
         id: lychee
-        uses: lycheeverse/lychee-action@v1.8.0
+        uses: lycheeverse/lychee-action@v2.2.0
 
       - name: Read Lychee report
         if: env.lychee_exit_code != 0
